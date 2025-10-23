@@ -44,7 +44,7 @@ The model's performance is measured using the following standard classification 
 **Clone the repository and install the dependencies:**
 1. #### Clone the repository ####
 ```bash
-git clone [Your Repository URL]
+git clone https://github.com/Tanmay2923/Iris-Classification-Project.git
 ```
 
 2. #### Install necessary Python libraries ####
